@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3AEE-64F1
+
+ Directory of C:\Users\USER\Desktop\MyProject
+
+06/14/2024  11:47 PM    <DIR>          .
+06/14/2024  11:47 PM    <DIR>          ..
+06/14/2024  11:41 PM               357 JavaAss.txt
+06/14/2024  11:47 PM                 0 JavaAss1.txt
+               2 File(s)            357 bytes
+               2 Dir(s)  19,877,093,376 bytes free
